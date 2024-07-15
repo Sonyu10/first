@@ -1,4 +1,5 @@
 #### 3D generation：
+
 1.triposr; 2.rodin gen
 
 生成中主要存在问题：
@@ -8,6 +9,7 @@
 
 
 #### 后期工作：
+
 1.确定生成模型
 2.语义分割创新点
 3.搜集图片开始制作数据集
@@ -30,6 +32,7 @@ Note: The installation will fail if run on something other than a CUDA GPU machi
 - 16 GB GPU
 
 ## Run Examples
+
 Run the scripts below to get example localizations.
 ```
 # hat on a candle
